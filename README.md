@@ -1,5 +1,5 @@
 # misc
-misc
+[link to commit A](#commit-A)
 
 # commit A
 
